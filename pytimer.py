@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# PYTHON TIMER WITH SOUND PLAYBACK
 # THE TIME NEEDS TO BE GIVEN AS A COMMAND LINE ARGUMENT IN SECONDS
 import time
 from playsound import playsound
